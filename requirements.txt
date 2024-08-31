@@ -1,0 +1,5 @@
+ultralytics
+roboflow
+beautifulsoup4
+requests
+tqdm
